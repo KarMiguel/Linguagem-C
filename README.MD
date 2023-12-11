@@ -1,4 +1,4 @@
-# PROJETOS USADOS FEITOS COM CONCEITOS DE ESTRUTURA DE DADOS (Struct,Tad,Fila,Lista,Recursão,Ordenamento,Arvore...)
+# PROJETOS ED II (Struct,Tad,Fila,Lista,Recursão,Ordenamento,Arvore...)
 
 # CHAVEAMENTO CAMPEONATO
 Conceitos de Arvore, simulando chaveamento de um campeonato de futebol.
