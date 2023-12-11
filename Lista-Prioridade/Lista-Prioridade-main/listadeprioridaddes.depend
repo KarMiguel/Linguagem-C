@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1687806312 source:d:\3 bsi\estrutura de dados ii\execicios avaliativos\pjtprova1\listadeprioridaddes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prioridades.h"
+
+1687803798 d:\3 bsi\estrutura de dados ii\execicios avaliativos\pjtprova1\listadeprioridaddes\prioridades.h
+
+1687804218 source:d:\3 bsi\estrutura de dados ii\execicios avaliativos\pjtprova1\listadeprioridaddes\prioridades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prioridades.h"
+
+1688761557 source:c:\users\eraldo\desktop\sistemas de informaÇÕes -if\3° período\estrutura de dados ii\listadeprioridaddes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prioridades.h"
+
+1687997335 c:\users\eraldo\desktop\sistemas de informaÇÕes -if\3° período\estrutura de dados ii\listadeprioridaddes\prioridades.h
+
+1688761708 source:c:\users\eraldo\desktop\sistemas de informaÇÕes -if\3° período\estrutura de dados ii\listadeprioridaddes\prioridades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prioridades.h"
+
