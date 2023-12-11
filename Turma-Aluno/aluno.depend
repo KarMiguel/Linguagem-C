@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683747088 source:c:\users\eraldo\documents\carlos miguel\sistemas de informa«’es -if\3∞ perÌodo\estrutura de dados ii\aloca«√o dinamica\exercicio 1 e 2\aluno\aluno.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
+1683340928 c:\users\eraldo\documents\carlos miguel\sistemas de informa«’es -if\3∞ perÌodo\estrutura de dados ii\aloca«√o dinamica\exercicio 1 e 2\aluno\aluno.h
+
+1683748236 source:c:\users\eraldo\documents\carlos miguel\sistemas de informa«’es -if\3∞ perÌodo\estrutura de dados ii\aloca«√o dinamica\exercicio 1 e 2\aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"aluno.h"
+

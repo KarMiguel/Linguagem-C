@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1686080806 source:c:\users\eraldo\desktop\sistemas de informaÇÕes -if\3° período\estrutura de dados ii\lista\projbanco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"banco.h"
+
+1686012134 c:\users\eraldo\desktop\sistemas de informaÇÕes -if\3° período\estrutura de dados ii\lista\projbanco\banco.h
+
+1686080617 source:c:\users\eraldo\desktop\sistemas de informaÇÕes -if\3° período\estrutura de dados ii\lista\projbanco\banco.c
+	<stdbool.h>
+	<stdio.h>
+	"banco.h"
+
